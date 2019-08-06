@@ -1,4 +1,4 @@
-# PCNWLab Variables (~11 problems)
+# Variables Lab (~11 problems)
 
 To complete this lab, do the following:
 
